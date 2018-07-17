@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class DC extends SuperHero implements Interfaces {
 
-public class DC {
 }
